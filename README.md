@@ -4,6 +4,7 @@ Communicating Plants
 
 INCLUDES
 - Raspberry Pi and E-Ink Display Interface Python Code
+  - display folder contains display.py file that controls the display screen
   - pic folder contains bmp files to display on e-ink screen
   - lib files contains waveshare configuration files
 - Sonification scripts
