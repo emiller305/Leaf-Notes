@@ -6,6 +6,11 @@ INCLUDES
 - Raspberry Pi and E-Ink Display Interface Python Code
   - pic folder contains bmp files to display on e-ink screen
   - lib files contains waveshare configuration files
+- Sonification scripts
+  - sonification.py (main sonification function)
+  - process.py (contains all statistical processing functions
+  used by sonification.py)
+  - note_utils.py (contains useful note functions)
 
 
 INSTRUCTIONS
