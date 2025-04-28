@@ -4,6 +4,7 @@ Georgia Tech ECE Culminating Design Project
 Communicating Plants
 
 INCLUDES
+- CompleteS System Files
 - E-Ink Display Interface Code (e-ink_display folder)
   - display folder contains display.py file that controls the display screen
   - pic folder contains bmp files to display on e-ink screen
@@ -15,8 +16,3 @@ INCLUDES
   - process.py (contains all statistical processing functions
   used by sonification.py)
   - note_utils.py (contains useful note functions)
-
-
-INSTRUCTIONS
-1. enable SPI on Raspberry Pi
-2. run "python display/display.py"
