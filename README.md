@@ -2,7 +2,7 @@
 Georgia Tech ECE Culminating Design Project
 Communicating Plants
 
-# INCLUDES
+INCLUDES
 - Raspberry Pi and E-Ink Display Interface Python Code
   - display folder contains display.py file that controls the display screen
   - pic folder contains bmp files to display on e-ink screen
@@ -16,6 +16,6 @@ Communicating Plants
   - note_utils.py (contains useful note functions)
 
 
-# INSTRUCTIONS
+INSTRUCTIONS
 1. enable SPI on Raspberry Pi
 2. run "python display/display.py"
