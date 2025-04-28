@@ -1,5 +1,6 @@
 # Leaf Notes
 Georgia Tech ECE Culminating Design Project
+
 Communicating Plants
 
 INCLUDES
