@@ -9,5 +9,5 @@ INCLUDES
 
 
 INSTRUCTIONS
-enable SPI on Raspberry Pi
-run "python display/display.py"
+1. enable SPI on Raspberry Pi
+2. run "python display/display.py"
