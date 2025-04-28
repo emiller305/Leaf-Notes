@@ -3,7 +3,7 @@ Georgia Tech ECE Culminating Design Project
 Communicating Plants
 
 INCLUDES
-- E-Ink Display Interface Code (e_ink_display folder)
+- E-Ink Display Interface Code (e-ink_display folder)
   - display folder contains display.py file that controls the display screen
   - pic folder contains bmp files to display on e-ink screen
   - lib files contains waveshare configuration files
