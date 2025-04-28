@@ -7,7 +7,9 @@ INCLUDES
   - display folder contains display.py file that controls the display screen
   - pic folder contains bmp files to display on e-ink screen
   - lib files contains waveshare configuration files
-- Sonification scripts
+- ADC Process Files (in adc folder)
+- Data Files Collected by ADC (in data folder)
+- Sonification Scripts
   - sonification.py (main sonification function)
   - process.py (contains all statistical processing functions
   used by sonification.py)
